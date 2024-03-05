@@ -7,8 +7,6 @@ The code was based on the [pix2pix code](https://github.com/phillipi/pix2pix) an
 
 **Regulerized_pix2pix:  [Project](https://redon213.users.greyc.fr/) |  [Paper](https://openaccess.thecvf.com/content/ICCV2023W/e-Heritage/html/Redon_3D_Surface_Approximation_of_the_Entire_Bayeux_Tapestry_for_Improved_ICCVW_2023_paper.html) |  [Torch](https://github.com/RedonMarjorie/Regulerized_GAN)**
 
-<img src='imgs/Rgb_pano.png' width="400px"/>
-
 ## Prerequisites
 - Linux or macOS
 - Python 3
