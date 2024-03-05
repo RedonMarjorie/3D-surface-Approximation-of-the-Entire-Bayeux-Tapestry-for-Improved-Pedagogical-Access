@@ -45,4 +45,4 @@ If you use this code for your research, please cite our papers.
 ```
 
 ## Acknowledgments
-Our code is inspired by [pytorch-DCGAN](https://github.com/pytorch/examples/tree/master/dcgan).
+Our code is inspired by [Pix2pix](https://github.com/phillipi/pix2pix).
