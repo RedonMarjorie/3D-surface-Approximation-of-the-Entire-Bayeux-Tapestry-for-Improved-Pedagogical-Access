@@ -1,2 +1,2 @@
 # Regulerized_GAN
-A Regulerized GAN 
+python3 test_pano.py --dataroot ./datasets/tapisserie --name tapisserie --model pix2pix --direction BtoA
