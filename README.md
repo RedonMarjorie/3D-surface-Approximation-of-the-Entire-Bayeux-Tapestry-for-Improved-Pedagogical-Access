@@ -1,5 +1,6 @@
 # Regularized_GAN
 <br><br><br>
+This Code generated normal map from an RGB image. It was trained on Bayeux Tapestry images.
 
 # Regularized_pix2pix in PyTorch
 
